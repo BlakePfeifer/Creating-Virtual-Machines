@@ -100,12 +100,7 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - Download the RDP file and log in with your credentials.
 
 ![image](https://github.com/user-attachments/assets/bef4c2ca-af63-4bab-8bf2-4853d3106d64)
-![image](https://github.com/user-attachments/assets/d16cfd5a-0fbb-4b2d-a1c1-d7b885fc7c8e)
-
-![image](https://github.com/user-attachments/assets/36065289-7bda-4e3e-b1b3-d654a84291cc)
-
----
-
+![image](https://github.com/user-attachments/assets/d16cfd5a-
 ## Summary
 In this tutorial, you created your first virtual machine on Microsoft Azure by:
 - Setting up a basic VM configuration.
@@ -126,5 +121,10 @@ Here are a few important things to watch out for when creating and managing your
 - ✅ **Check Resource Groups**: Deleting a VM doesn't automatically delete the Resource Group — clean up any unused resources to avoid extra charges.
 - ✅ **Be Careful With Public IPs**: Exposing services to the internet (like RDP) without proper security can create vulnerabilities.
 
-> **Important Reminder**:  
+> **Important Reminder**:  0fbb-4b2d-a1c1-d7b885fc7c8e)
+
+![image](https://github.com/user-attachments/assets/36065289-7bda-4e3e-b1b3-d654a84291cc)
+
+---
+
 > Just like leaving lights on at home, **keeping your VM running 24/7 can build up real charges**. Always monitor usage to stay within your free credit or budget!
