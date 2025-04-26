@@ -69,7 +69,9 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - **Size**: Choose a size (you can select free tiers if available).
 - **Username and Password**: Create login credentials for your VM.
 
-<!-- IMAGE: Insert screenshot of the "Basics" configuration page -->
+![image](https://github.com/user-attachments/assets/efe49249-2c89-4556-91d7-c8eed80765f4)
+![image](https://github.com/user-attachments/assets/27a747e6-133a-4059-a0e9-acbd804f3325)
+
 
 ---
 
@@ -78,7 +80,8 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - Allow **Public Inbound Ports**.
 - Under "Select inbound ports", choose **RDP (3389)** for Windows or **SSH (22)** for Linux.
 
-<!-- IMAGE: Insert screenshot of Networking settings -->
+![image](https://github.com/user-attachments/assets/741e5359-633e-4ad3-97f0-f369d0a2302d)
+
 
 ---
 
