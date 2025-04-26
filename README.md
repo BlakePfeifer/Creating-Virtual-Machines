@@ -89,7 +89,8 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - Click **Review + Create**.
 - After validation, click **Create** to start deployment.
 
-<!-- IMAGE: Insert screenshot of "Review + Create" screen -->
+![image](https://github.com/user-attachments/assets/4b9bfe82-8007-46be-8191-180a8e219bd8)
+
 
 ---
 
@@ -108,3 +109,19 @@ In this tutorial, you created your first virtual machine on Microsoft Azure by:
 - Choosing OS, size, and network settings.
 - Successfully connecting to your VM remotely.
 
+---
+
+## Common Mistakes and Tips
+
+Here are a few important things to watch out for when creating and managing your virtual machine:
+
+- ✅ **Double-check your Region**: Choose the nearest region to you for better speed and possibly lower costs.
+- ✅ **Remember Inbound Ports**: Make sure you enable the correct ports (RDP or SSH), or you won't be able to connect to your VM.
+- ✅ **Use Strong Credentials**: Always set a strong username and password for better security.
+- ✅ **Monitor VM Status**: If your VM is running, it continues to use resources — **this can cost money over time** like leaving a device plugged into electricity.
+- ✅ **Shut Down or Deallocate When Not in Use**: After you're done, shut down your VM through the Azure portal to avoid unexpected charges.
+- ✅ **Check Resource Groups**: Deleting a VM doesn't automatically delete the Resource Group — clean up any unused resources to avoid extra charges.
+- ✅ **Be Careful With Public IPs**: Exposing services to the internet (like RDP) without proper security can create vulnerabilities.
+
+> **Important Reminder**:  
+> Just like leaving lights on at home, **keeping your VM running 24/7 can build up real charges**. Always monitor usage to stay within your free credit or budget!
