@@ -99,7 +99,10 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - Click **Connect** and choose **RDP** (Windows) or **SSH** (Linux).
 - Download the RDP file and log in with your credentials.
 
-<!-- IMAGE: Insert screenshot of VM Overview page and Connect button -->
+![image](https://github.com/user-attachments/assets/bef4c2ca-af63-4bab-8bf2-4853d3106d64)
+![image](https://github.com/user-attachments/assets/d16cfd5a-0fbb-4b2d-a1c1-d7b885fc7c8e)
+
+![image](https://github.com/user-attachments/assets/36065289-7bda-4e3e-b1b3-d654a84291cc)
 
 ---
 
