@@ -55,7 +55,8 @@ This tutorial outlines the steps to create a virtual machine on Microsoft Azure,
 - In the search box, type **"Virtual Machine"**.
 - Click **"Virtual Machine"** from the list, then click **"Create"**.
 
-<!-- IMAGE: Insert screenshot of "Create a resource" page and searching for "Virtual Machine" -->
+![image](https://github.com/user-attachments/assets/0f045baf-31f8-4f8a-8786-caa56596a720)
+
 
 ---
 
