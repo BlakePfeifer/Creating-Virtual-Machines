@@ -7,9 +7,7 @@ Virtual-Machine-Azure
 This tutorial outlines the steps to create a virtual machine on Microsoft Azure, the leading cloud platform for building and managing services.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
